@@ -465,6 +465,8 @@ header-down {
 .cook-content{
 	display: flex;
 	justify-content: space-around;
+}
+.cook-content{
 	width: 350px;
         height: 526px;
 }
