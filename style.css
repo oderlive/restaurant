@@ -466,7 +466,7 @@ header-down {
 	display: flex;
 	justify-content: space-around;
 }
-.cook-content{
+.cook-content img{
 	width: 350px;
         height: 526px;
 }
