@@ -464,11 +464,12 @@ header-down {
 }
 .cook-content{
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 }
 .cook-content img{
 	width: 350px;
         height: 526px;
+	margin-right:10px;
 }
 .footer{
 	background-color: rgb(9, 1, 1);
