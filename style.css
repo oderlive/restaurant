@@ -465,6 +465,8 @@ header-down {
 .cook-content{
 	display: flex;
 	justify-content: space-around;
+	width: 350px;
+        height: 526px;
 }
 .footer{
 	background-color: rgb(9, 1, 1);
